@@ -86,7 +86,7 @@ a {
   text-decoration: none; /* no underline */
 }
 
-.btn {
+.bts {
   background: #7288da;
   background-image: -webkit-linear-gradient(top, #7288da, #7288da);
   background-image: -moz-linear-gradient(top, #7288da, #7288da);
@@ -103,7 +103,7 @@ a {
   text-decoration: none;
 }
 
-.btn:hover {
+.bts:hover {
   background: #7288da;
   background-image: -webkit-linear-gradient(top, #7288da, #7288da);
   background-image: -moz-linear-gradient(top, #7288da, #7288da);
