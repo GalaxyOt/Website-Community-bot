@@ -93,13 +93,13 @@ a {
   background-image: -ms-linear-gradient(top, #7288da, #7288da);
   background-image: -o-linear-gradient(top, #7288da, #7288da);
   background-image: linear-gradient(to bottom, #7288da, #7288da);
-  -webkit-border-radius: 17;
-  -moz-border-radius: 17;
-  border-radius: 17px;
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
   font-family: Arial;
   color: #ffffff;
   font-size: 20px;
-  padding: 0px 0px 0px 0px;
+  padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
 
